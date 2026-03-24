@@ -5,4 +5,6 @@
 layout: home
 ---
 
-# Welcome to my site!
+# Howdy!
+
+Welcome to my site!
