@@ -1,15 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+# Do not edit the text between these lines!
 layout: default
 ---
 
-# Header 
+# This is a big header
 
-<!-- Inserting an image. -->
+<!-- This is a comment. Below, you'll see code for inserting an image. To add an image, make sure you save it inside the imgs folder of this repository. -->
 <img src="/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  />
 
-## Smaller Header
+## This is a small header
 
-Welcome to my site!
+This is basic paragraph text.
