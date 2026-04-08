@@ -5,8 +5,11 @@
 layout: default
 ---
 
-# Howdy!
+# Header 
 
+<!-- Inserting an image. -->
 <img src="/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  />
+
+## Smaller Header
 
 Welcome to my site!
