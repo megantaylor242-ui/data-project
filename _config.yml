@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Megan's Data Analysis
+title: Comp110 Analysis | Megan Taylor
 email: megtay@ad.unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Analyzing the correlation between pre-lecture resources and student confidence: 
